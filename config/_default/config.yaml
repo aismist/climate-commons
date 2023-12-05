@@ -1,4 +1,5 @@
 theme: blowfish
+baseurl: 'https://willowy-stroopwafel-fa7027.netlify.app'
 defaultContentLanguage: en
 enableRobotsTXT: yes
 paginate: 10
