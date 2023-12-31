@@ -6,7 +6,6 @@ cascade:
   showHeadingAnchors: false
   showPagination: false
   showReadingTime: false
-  showSummary: false
   showTableOfContents: true
   showTaxonomies: false
   showWordCount: false
