@@ -30,7 +30,7 @@ defaultBackgroundImage = "image.jpg" # used as default for background images
 
 [footer]
   showMenu = true
-  showCopyright = true
+  showCopyright = false
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
@@ -51,7 +51,7 @@ defaultBackgroundImage = "image.jpg" # used as default for background images
   showViews = false
   showLikes = false
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
@@ -84,7 +84,7 @@ defaultBackgroundImage = "image.jpg" # used as default for background images
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   groupByYear = true
   cardView = false
   cardViewScreenWidth = false
